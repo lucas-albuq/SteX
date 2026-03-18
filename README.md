@@ -1,7 +1,7 @@
 # Infoweb Turma 2022 - FLA Game
 
 ## Objetivo
-- Repositório dos Jogos Eletrônicos produzidos na disciplina de FLA de Infoweb Turma 2022
+- Repositório dos Jogos Eletrônicos produzidos na disciplina de FLA de Infoweb Turma 2022. Desenvolvido por Lucas Francisco de Albuquerque Barbosa e Matheus dos Santos Costa.
 
 ## Tecnologias
 - [Python](https://www.python.org/)
